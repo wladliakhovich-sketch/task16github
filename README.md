@@ -65,3 +65,4 @@ Notes:
 - /app returns a placeholder message in standalone mode
 - Full reverse proxy functionality is available in docker-compose mode
 trigger workflow again
+final pipeline test
