@@ -64,3 +64,4 @@ Notes:
 - The image runs standalone without docker-compose
 - /app returns a placeholder message in standalone mode
 - Full reverse proxy functionality is available in docker-compose mode
+trigger workflow again
